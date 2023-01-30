@@ -1,0 +1,22 @@
+.contenedor{
+    width: 308px;
+    height: 306px;
+    background-color: black;
+}
+
+.inside{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    vertical-align:text-top
+}
+
+.linea_abajo{
+    border-bottom: black 3px solid;
+}
+
+.linea_arriba{
+    border-top: black 3px solid;
+}
